@@ -27,4 +27,4 @@
 
 # 运行方式参考
 
-go test -v adapter_test.go adapter.go
+go test -v facade_test.go facade.go
